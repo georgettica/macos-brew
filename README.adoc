@@ -1,0 +1,8 @@
+This repo holds installations commands for a brand new macos, feel free to fork and use as you see fit
+
+
+to run this call
+[source,shell]
+----
+brew bundle
+----
